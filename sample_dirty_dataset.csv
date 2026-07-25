@@ -1,0 +1,16 @@
+ID,Name,Age,City,Salary,Department,Join_Date
+12,Suresh,28.0,Chennai,61000.0,Finance,2022-04-04
+5,Sneha,35.0,Chennai,50000.0,IT,2023-05-05
+6,Neha,,Pune,,,2021-08-19
+1,Vikram,22.0,Delhi,25000.0,Sales,2021-03-01
+10,Karan,27.0,Mumbai,,,2019-06-25
+4,Sneha,30.0,,45000.0,Marketing,2019-11-20
+2,Pooja,25.0,Mumbai,30000.0,IT,2020-07-15
+11,Pooja,,Pune,52000.0,IT,2021-12-12
+8,Pooja,19.0,Delhi,80000.0,Sales,2022-09-30
+2,Pooja,25.0,Mumbai,30000.0,IT,2020-07-15
+3,Rohan,,Bangalore,,HR,2022-01-10
+7,Neha,40.0,Kolkata,75000.0,Finance,2020-02-14
+8,Pooja,19.0,Delhi,80000.0,Sales,2022-09-30
+5,Sneha,35.0,Chennai,50000.0,IT,2023-05-05
+9,Neha,23.0,,28000.0,HR,2023-01-01
